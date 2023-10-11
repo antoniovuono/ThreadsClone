@@ -12,6 +12,7 @@
 		E74333E92AD032DA00CBE0DE /* ActivityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E74333E82AD032D900CBE0DE /* ActivityView.swift */; };
 		E74333ED2AD032FA00CBE0DE /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E74333EC2AD032FA00CBE0DE /* ProfileView.swift */; };
 		E74333F12AD0335B00CBE0DE /* FeedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E74333F02AD0335B00CBE0DE /* FeedView.swift */; };
+		E7A4E1932AD622A2006E204D /* ThreadCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7A4E1922AD622A2006E204D /* ThreadCell.swift */; };
 		E7AA6D9E2ACE266D003D5A3B /* ThreadsCloneApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7AA6D9D2ACE266D003D5A3B /* ThreadsCloneApp.swift */; };
 		E7AA6DA02ACE266D003D5A3B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7AA6D9F2ACE266D003D5A3B /* ContentView.swift */; };
 		E7AA6DA22ACE266E003D5A3B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E7AA6DA12ACE266E003D5A3B /* Assets.xcassets */; };
@@ -28,6 +29,7 @@
 		E74333E82AD032D900CBE0DE /* ActivityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityView.swift; sourceTree = "<group>"; };
 		E74333EC2AD032FA00CBE0DE /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		E74333F02AD0335B00CBE0DE /* FeedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedView.swift; sourceTree = "<group>"; };
+		E7A4E1922AD622A2006E204D /* ThreadCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreadCell.swift; sourceTree = "<group>"; };
 		E7AA6D9A2ACE266D003D5A3B /* ThreadsClone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ThreadsClone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E7AA6D9D2ACE266D003D5A3B /* ThreadsCloneApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreadsCloneApp.swift; sourceTree = "<group>"; };
 		E7AA6D9F2ACE266D003D5A3B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -134,6 +136,7 @@
 			isa = PBXGroup;
 			children = (
 				E74333F02AD0335B00CBE0DE /* FeedView.swift */,
+				E7A4E1922AD622A2006E204D /* ThreadCell.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -335,6 +338,7 @@
 				E7BDB3012AD4DDBD002CF3C6 /* RegistrationView.swift in Sources */,
 				E74333ED2AD032FA00CBE0DE /* ProfileView.swift in Sources */,
 				E74333F12AD0335B00CBE0DE /* FeedView.swift in Sources */,
+				E7A4E1932AD622A2006E204D /* ThreadCell.swift in Sources */,
 				E74333E52AD0328900CBE0DE /* CreateThreadView.swift in Sources */,
 				E7AA6DA02ACE266D003D5A3B /* ContentView.swift in Sources */,
 				E7AC08962ACF89B30059174A /* ThreadsTabView.swift in Sources */,
